@@ -8,14 +8,14 @@ This is intended to be, for better or for worse, my online resume/CV. I usually 
 
 ## Academic Background
 ### Degrees
-- **Masters in Cloud and Network Infrastructures- 2023-2025 (expected)**
-__Université de Rennes, Rennes, France__
+- **Masters in Cloud and Network Infrastructures- 2023-2025 (expected)**  
+*Université de Rennes, Rennes, France*
 
-- **Master in Computer Applications- 2016-2019**
-__Madurai Kamaraj University, Madurai, India__
+- **Master in Computer Applications- 2016-2019**  
+*Madurai Kamaraj University, Madurai, India*
 
-- **Bachelor of Science in Computer Science- 2013-2016**
-__The Madura College, Madurai, India__
+- **Bachelor of Science in Computer Science- 2013-2016**  
+*The Madura College, Madurai, India*
 
 ## Contact Me
 You can contact me through haraesh.jr@gmail.com.
