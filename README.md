@@ -6,7 +6,18 @@ I'm currently pursuing a Masters in Cloud and Network Infrastructures at the Uni
 
 This is intended to be, for better or for worse, my online resume/CV. I usually don't give this much information about my profile in my paper/PDF version of my CV since it's a challenge to fit all of it in one page, but I always think a "resume/CV" as it were is supposed to be comprehensive, providing a complete overview of one's profile; and hence I thought this comprehensive profile could be online on a Github Pages repository.
 
-# Contact Me
+## Academic Background
+### Degrees
+- **Masters in Cloud and Network Infrastructures- 2023-2025 (expected)**
+__Université de Rennes, Rennes, France__
+
+- **Master in Computer Applications- 2016-2019**
+__Madurai Kamaraj University, Madurai, India__
+
+- **Bachelor of Science in Computer Science- 2013-2016**
+__The Madura College, Madurai, India__
+
+## Contact Me
 You can contact me through haraesh.jr@gmail.com.
 
 Thank you for reading this far! :)
